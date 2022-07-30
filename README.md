@@ -1,5 +1,6 @@
 # COMBO-MYR-cleaner
 leaves only MYR in combos
+оставляет только MYR в комбо
 
 Копипаст но на питоне.
 
